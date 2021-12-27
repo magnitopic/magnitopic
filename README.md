@@ -1,6 +1,6 @@
 ### 👋 Hey! I'm Magnitopic
 
-I'm a developer. I mainly do web development, scripting with python and a bit of Arduino as well.
+I'm a developer. I mainly do web development, scripting with python, Java and a bit of Arduino as well.
 
 
 
