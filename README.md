@@ -1,8 +1,4 @@
-### 👋 Hey! I'm Magnitopic
-
-I'm a developer. I mainly do web development, scripting with python, Java and a bit of Arduino as well.
-
-
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Encode+Sans+&size=25&duration=3000&pause=1000&color=A30EF7&center=true&width=435&lines=%F0%9F%91%8B+Hey!+I'm+Magnitopic;I'm+mainly+a+web+dev;A+student+at+42Madrid;And+an+all+round+tech+lover" alt="Typing SVG" /></h1>
 
 ---
 <a href="https://github.com/magnitopic">
