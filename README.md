@@ -13,7 +13,7 @@
 <a href="https://github.com/magnitopic" style="display: flex; align-items: center;justify-content: center; flex-wrap: wrap;">
 	<img align="top" src="https://github-readme-streak-stats.herokuapp.com?user=magnitopic&theme=highcontrast" />
 	<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnitopic&layout=compact&theme=highcontrast" />
-	<a href="https://profile.intra.42.fr/users/alaparic">
+	<a href="https://profile.intra.42.fr/users/alaparic" target="_blank">
 		<img src="https://badge42.vercel.app/api/v2/cl866nkad00400gmqnqruit61/stats?cursusId=21&coalitionId=64" alt="alaparic's 42 stats" />
 	</a>
 </a>
