@@ -7,6 +7,9 @@
 <a href="https://twitter.com/magnitopic">
 	<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Youtube"/>
 </a>
+<a href="https://www.magnitopic.com/">
+	<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="WebSite"/0>
+</a>
 
 ---
 
