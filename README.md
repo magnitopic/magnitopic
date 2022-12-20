@@ -7,8 +7,8 @@
 <a href="https://twitter.com/magnitopic">
 	<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Youtube"/>
 </a>
-<a href="https://www.magnitopic.com/">
-	<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="WebSite"/0>
+<a href="https://profile.intra.42.fr/users/alaparic">
+	<img src="https://img.shields.io/badge/Intra-000000?style=for-the-badge&logo=42&logoColor=white" alt="IntraProfile"/0>
 </a>
 
 ---
