@@ -21,4 +21,13 @@
 	</a>
 </a>
 
+---
+
+<p align="center">
+  <b> WHIT SKILLS IN </b> <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,c,java,python,kotlin,bash,linux,arduino,docker" />
+  </a>
+</p>
+
 </div>
