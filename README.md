@@ -8,9 +8,12 @@
 	<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Youtube"/>
 </a>
 <a href="https://profile.intra.42.fr/users/alaparic">
+	<img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="IntraProfile"/0>
+</a>
+<a href="https://profile.intra.42.fr/users/alaparic">
 	<img src="https://img.shields.io/badge/Intra-000000?style=for-the-badge&logo=42&logoColor=white" alt="IntraProfile"/0>
 </a>
-
+	
 ---
 
 <a href="https://github.com/magnitopic" style="display: flex; align-items: center;justify-content: center; flex-wrap: wrap;">
