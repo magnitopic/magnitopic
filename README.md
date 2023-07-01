@@ -29,7 +29,7 @@
 <p align="center">
   <b> WHIT SKILLS IN </b> <br />
   <a href="https://www.magnitopic.com"/>
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,c,java,python,kotlin,bash,linux,arduino,docker" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,c,java,python,kotlin,mysql,mongodb,bash,linux,arduino,docker" />
   </a>
 </p>
 
