@@ -27,9 +27,9 @@
 ---
 
 <p align="center">
-  <b> WHIT SKILLS IN </b> <br />
   <a href="https://www.magnitopic.com"/>
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,c,java,python,kotlin,mysql,mongodb,bash,linux,arduino,docker" />
+	  <img src="https://skillicons.dev/icons?theme=dark&perline=11&i=html,css,js,nodejs,c,cpp,java,spring,python,kotlin,arduino">
+	  <img src="https://skillicons.dev/icons?theme=dark&perline=11&i=git,docker,mongodb,mysql,flask,angular,bash,linux,androidstudio" />
   </a>
 </p>
 
