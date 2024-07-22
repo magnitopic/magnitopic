@@ -28,8 +28,7 @@
 
 <p align="center">
   <a href="https://www.magnitopic.com"/>
-	  <img src="https://skillicons.dev/icons?theme=dark&perline=11&i=html,css,js,nodejs,c,cpp,java,spring,python,kotlin,arduino">
-	  <img src="https://skillicons.dev/icons?theme=dark&perline=11&i=git,docker,mongodb,mysql,flask,angular,bash,linux,androidstudio" />
+	  <img src="https://skillicons.dev/icons?theme=dark&perline=11&i=html,css,js,nodejs,c,cpp,java,spring,python,kotlin,arduino,bash,linux,git,docker,mongodb,mysql,flask,django,angular,react">
   </a>
 </p>
 
