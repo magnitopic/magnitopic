@@ -16,8 +16,8 @@
 	
 ---
 <a href="https://github.com/magnitopic" style="display: flex; align-items: center;justify-content: center; flex-wrap: wrap;">
-	<img align="top" src="https://github-readme-streak-stats.herokuapp.com?user=magnitopic&theme=highcontrast" />
-	<img align="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=magnitopic&layout=compact&theme=highcontrast" />
+	<img align="top" src="https://github-readme-stats.vercel.app/api?username=magnitopic&theme=highcontrast" />
+	<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnitopic&layout=compact&theme=highcontrast" />
 	<a href="https://profile.intra.42.fr/users/alaparic" target="_blank">
 		<img width="300" height="165" src="https://badge.mediaplus.ma/darkblue/alaparic?1337Badge=off&UM6P=off" alt="alaparic's 42 stats" />
 	</a>
